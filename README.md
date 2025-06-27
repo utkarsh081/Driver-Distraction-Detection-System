@@ -42,14 +42,14 @@ This system uses a pre-trained Convolutional Neural Network (CNN) model (based o
 ```bash
 git clone https://github.com/utkarsh081/Driver-Distraction-Detection-System.git
 cd Driver-Distraction-Detection-System
+```
 
 ---
 
-```
-Developed By:
-### Utkarsh Pandey
-### GitHub: https://github.com/utkarsh081
-### Email: utkarshpandey0889@gmail.com
-```
+## 👤 Developed By :
+- `Utkarsh Pandey`
+- `GitHub`: https://github.com/utkarsh081
+- `Email`: utkarshpandey0889@gmail.com
+
 
 
